@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m Purba Saha, a Computer Science and Engineering student at JIS College of Engineering, specializing in Artificial Intelligence and Machine Learning. I am also a passionate web developer with experience in building responsive and user-friendly websites. I enjoy combining creativity with technical skills to develop innovative solutions. With a strong interest in AI, ML, and web technologies, I am always eager to learn, grow, and contribute to impactful projects. I am committed to applying my knowledge to solve real-world challenges and aspire to make a meaningful difference through technology.<br><br>
+Hello ! I am Purba Saha ,  
+
+Highly motivated Computer Science Engineering student specializing in AI/ML (B.Tech, JIS College of Engineering). Gained practical experience in data manipulation and predictive modeling through academic projects, utilizing core expertise in Python, MySQL, and PostgreSQL. Proficient with key data science libraries including Pandas, NumPy, and Scikit-learn. Eager to apply analytical and problem-solving skills to transform complex datasets into actionable insights.
+
+Actively looking for internship opportunities.<br><br>
 
 
 ## 🌐 Socials:
